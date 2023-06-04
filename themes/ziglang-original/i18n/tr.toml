@@ -1,0 +1,62 @@
+[slogan-latest-release]
+other = "En son sürüm: &nbsp; <b>{{ . }}</b>"
+
+
+[back-to-home]
+other = "← <b>Ana</b> sayfaya dön"
+
+[back-to-parent]
+other = "← <b>{{ . }}</b> bölümüne dön"
+
+
+[menu-community]
+other = "Topluluğa Katıl"
+
+[menu-source]
+other = "Kaynak Kodu"
+
+
+[downloads-heading]
+other = "Sürümler"
+
+[downloads-install-from-pkg-manager]
+other = "Ayrıca <a href=\"https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager\"> paket yöneticinizden Zig'i yükleyebilirsiniz</a>."
+
+[downloads-json]
+other = "Bu sayfanın <a href=\"https://ziglang.org/download/index.json\">JSON hali buradadır</a>."
+
+[downloads-minisig]
+other = "Dosyalar şu açık anahtar kullanılarak <a href=\"https://jedisct1.github.io/minisign/\">minisign</a> ile imzalandı:"
+
+[download-binary]
+other = "Yürütülebilir Dosya"
+
+[download-documentation]
+other = "<a href=\"{{ . }}\">Dil Referansı</a>"
+
+[download-filename]
+other = "Dosya adı"
+
+[download-sig]
+other = "İmza"
+
+[download-kind]
+other = "Tür"
+
+[download-release-notes]
+other = "<a href=\"{{ . }}\">Sürüm Notları</a>"
+
+[download-size]
+other = "Büyüklük"
+
+[download-source]
+other = "Kaynak"
+
+[download-stdlib-docs]
+other = "<a href=\"{{ . }}\">Standart Kütüphane Dokümantasyonu</a> (deneysel)"
+
+[footer-translation]
+other = "Bu sayfa şu dillerde de mevcuttur"
+
+[news-rss]
+other = "Bu sayfa <a href=\"https://ziglang.org/news/index.xml\">RSS akışı</a> olarak da mevcuttur."
